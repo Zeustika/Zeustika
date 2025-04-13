@@ -73,7 +73,7 @@ Feel free to reach out if you have questions, ideas, or just want to chat about 
 
 ## Fun Facts 🎉
 
-- 🏍  I enjoy riding in my free time.
+- 🏍  I enjoy fugging around with electronic in my free time.
 - 🎮 I'm a big fan of retro tech.
 - 🚬 Juara jambu is my ultimate coding fuel!
 
