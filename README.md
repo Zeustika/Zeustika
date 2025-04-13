@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ## Projects I'm Proud Of 🚀
 
-### [Sekilas Saja](https://github.com/Zeustika/sekilas-saja)
+### [Sekilas Saja](https://github.com/Zeustika/SekilasSaja)
 A web app for quick and secure file sharing. Files can only be viewed once, ensuring privacy and security.
 - **Tech Stack**: Node.js, Express.js, Multer
 - **Features**:
@@ -24,7 +24,7 @@ A web app for quick and secure file sharing. Files can only be viewed once, ensu
   - "View Once" mechanism for added security
   - Protection against unauthorized downloads
 
-### [IoT Motorcycle Security](https://github.com/Zeustika/iot-motorcycle-security)
+### [IoT Motorcycle Security](https://github.com/Zeustika/Esp32Motorcycle)
 An IoT-based security system for motorcycles, including parking mode, upright detection, and alarm features.
 - **Tech Stack**: ESP32, MPU-6050, Bluetooth
 - **Features**:
