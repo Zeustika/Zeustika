@@ -23,6 +23,16 @@ A web app for quick and secure file sharing. Files can only be viewed once, ensu
   - Upload and share files with a unique link
   - "View Once" mechanism for added security
   - Protection against unauthorized downloads
+ 
+### [Tiktok ESP32](https://github.com/Zeustika/Tik32)
+A TikTok live stream integration with ESP32 for interacting with gifts. The system listens to TikTok live events and sends corresponding data to an ESP32 device based on the received gift.
+- **Tech Stack**: Python, TikTokLive API, ESP32, Requests
+- **Features**:
+  - Connect to TikTok live streams via TikTokLive API
+  - Listen for gifts sent during the live stream
+  - Send data to ESP32 to trigger specific actions based on received gifts
+  - Customizable gift points system for different gifts
+  - ESP32 communication over HTTP with a "POST" request to a specified IP address
 
 ### [IoT Motorcycle Security](https://github.com/Zeustika/Esp32Motorcycle)
 An IoT-based security system for motorcycles, including parking mode, upright detection, and alarm features.
