@@ -42,7 +42,7 @@ An IoT-based security system for motorcycles, including parking mode, upright de
   - Movement-based alarm activation
   - Fuel monitoring system
 
-### [Game Mods and Scripts](https://github.com/Zeustika/game-mods)
+### [Game Mods and Scripts](https://karyakarsa.com/zeustika)
 A collection of mods and scripts I created for various games to enhance gameplay.
 - **Tech Stack**: Lua, Python, C#
 - **Features**:
@@ -54,7 +54,7 @@ A collection of mods and scripts I created for various games to enhance gameplay
 
 ## Get in Touch 📬
 
-- 🐦 Facebook : [@Yustika Slamet](https://facebook.com/yustika.slamet)
+- 🐦 Facebook : [Yustika Slamet](https://facebook.com/yustika.slamet)
 - 📧 Email    : Pakhamers47@gmail.com
 
 Feel free to reach out if you have questions, ideas, or just want to chat about tech!
